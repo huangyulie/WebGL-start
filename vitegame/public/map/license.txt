@@ -1,0 +1,11 @@
+Model Information:
+* title:	Flächenermittlung Forstwirtschaft GIS und GPS
+* source:	https://sketchfab.com/3d-models/flachenermittlung-forstwirtschaft-gis-und-gps-a8332e120ff5471da2cd5b427494412a
+* author:	LUFTBILD. AERO (https://sketchfab.com/luftbild.aero)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Flächenermittlung Forstwirtschaft GIS und GPS" (https://sketchfab.com/3d-models/flachenermittlung-forstwirtschaft-gis-und-gps-a8332e120ff5471da2cd5b427494412a) by LUFTBILD. AERO (https://sketchfab.com/luftbild.aero) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
